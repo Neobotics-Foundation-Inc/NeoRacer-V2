@@ -6,18 +6,17 @@
 <img width="1536" height="979" alt="grafik" src="https://github.com/user-attachments/assets/b32d2113-be08-45b6-8e23-587c1f945737" />
 
 (Current as of December 2nd, 2025)
----
 
 NeoRacer V2 follows these design criteria:
+---
 - 3D printable chassis: NeoRacer V2 shall be as accessible as possible, with low production costs. Hence, it should be easy to print and assemble, which allows low-cost access, maintenance, and repairs
 - Compact footprint: NeoRacer V2 is dedicated to robotic research on the small scale. To allow competitions in confined spaces as well as to follow the concept of low cost and ease of use, it aims to be on the 1:12 scale of model cars
 - Standardized and well available components: All non-printable parts of NeoRacer V2 shall be standard components that can be procured worldwide at low costs
 - Stability: Despite the limitations of 3D printed components, NeoRacer V2 shall be as sturdy as possible, to allow operation for at least dozens of hours without failures
 - Performance: NeoRacer V2 needs sufficient payload capacity for the hardware required for autonomous racing, and it needs to have enough power to reach around 25 km/h
 
----
-
 Specifications*
+---
 
 - Footprint: 30x20x10 cm (LxWxH), without bumpers (they add 8.5 cm in length)
 - Wheelbase: 23 cm
@@ -39,10 +38,8 @@ Specifications*
 
 *Subject to change - the chassis design is still work in progress
 
----
-
 Considerations for reliable long-term operation of the drive train
-
+---
 - The drive train uses herringbone gears, which can be easily produced with 3D printing and allow smoother operation than spur gears. They are self-centering and have smooth transitions from tooth to tooth.
 - The gears are designed with a module of 1, which is large enough for 3D printing, and the smallest gear has 15 teeth, which is comparably large, thereby allowing small forces acting per tooth.
 - All gears have a height of 15 mm, again, this is comparably large, which distributes the acting forces over a large area.
