@@ -3,9 +3,9 @@
 
 ---
 
-<img width="1536" height="979" alt="grafik" src="https://github.com/user-attachments/assets/b32d2113-be08-45b6-8e23-587c1f945737" />
+<img width="1676" height="1002" alt="2025-12-06 Rendering" src="https://github.com/user-attachments/assets/078d7e72-8aae-4bc8-8d72-5f857b126ef7" />
 
-(Current as of December 2nd, 2025)
+(Current as of December 6th, 2025)
 
 NeoRacer V2 follows these design criteria:
 ---
@@ -48,3 +48,8 @@ Considerations for reliable long-term operation of the drive train
 - The differential uses four crown gears between the two output gears to distribute the load on as many teeth as possible
 - The wheels are connected to the differential's output with Cardan joints, which uses metal pins as the actual joint
 - The whole drive train is supported with bearings. The main gears use ball bearings. The differential and the Cardan joints use sleeve bearings.
+
+Changelog
+---
+- 2025-12-02: Initial upload
+- 2025-12-06: Wheel placeholders updated with KINGCOO 75mm wheels ([link](https://www.amazon.de/KINGCOO-Gummireifen-Kunststoff-Speichen-Schwarz/dp/B0CXT1QLLB/)), several design errors fixed
