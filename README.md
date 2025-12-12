@@ -52,4 +52,4 @@ Changelog
 ---
 - 2025-12-02: Initial upload
 - 2025-12-06: Wheel placeholders updated with KINGCOO 75mm wheels ([link](https://www.amazon.de/KINGCOO-Gummireifen-Kunststoff-Speichen-Schwarz/dp/B0CXT1QLLB/)), several design errors fixed
-- 2025-12-12: Metal components (screws, nuts, threaded inserts, bearings, cylinder pins) added, Basic electronics with mounting options added, several design errors fixed
+- 2025-12-12: Metal components (screws, nuts, threaded inserts, bearings, cylinder pins) added, Basic electronics with mounting options added, several design errors fixed. First BOM added.
