@@ -2,10 +2,9 @@
 3D-printable open-source chassis for autonomous racing in robotics education and research
 
 ---
+<img width="1562" height="971" alt="2025-12-12 Rendering" src="https://github.com/user-attachments/assets/03758506-4402-4844-b589-a426e221f334" />
 
-<img width="1676" height="1002" alt="2025-12-06 Rendering" src="https://github.com/user-attachments/assets/078d7e72-8aae-4bc8-8d72-5f857b126ef7" />
-
-(Current as of December 6th, 2025)
+(Current as of December 12th, 2025)
 
 NeoRacer V2 follows these design criteria:
 ---
@@ -53,3 +52,4 @@ Changelog
 ---
 - 2025-12-02: Initial upload
 - 2025-12-06: Wheel placeholders updated with KINGCOO 75mm wheels ([link](https://www.amazon.de/KINGCOO-Gummireifen-Kunststoff-Speichen-Schwarz/dp/B0CXT1QLLB/)), several design errors fixed
+- 2025-12-12: Metal components (screws, nuts, threaded inserts, bearings, cylinder pins) added, Basic electronics with mounting options added, several design errors fixed
