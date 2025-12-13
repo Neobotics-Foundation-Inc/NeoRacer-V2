@@ -1,6 +1,18 @@
 # NeoRacer-V2
 3D-printable open-source chassis for autonomous racing in robotics education and research
 
+## Licensing
+
+Hardware design files in this repository are licensed under **CERN-OHL-S-2.0** (CERN Open Hardware Licence Version 2 – Strongly Reciprocal).
+
+Source Location: https://github.com/Neobotics-Foundation-Inc/NeoRacer-V2
+
+Warranty disclaimer: provided **as-is**, without any express or implied warranty.
+
+Compliance note for physical products (where practical):
+- Mark PCBs (e.g., silkscreen): `Licensed CERN-OHL-S v2 | Source: github.com/Neobotics-Foundation-Inc/NeoRacer-V2`
+- Mark 3D-printed parts (e.g., embossed/engraved): same notice on a visible surface
+
 ---
 <img width="1562" height="971" alt="2025-12-12 Rendering" src="https://github.com/user-attachments/assets/03758506-4402-4844-b589-a426e221f334" />
 

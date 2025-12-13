@@ -1,0 +1,17 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: NeoRacer-V2
+Source: https://github.com/Neobotics-Foundation-Inc/NeoRacer-V2
+
+Files: CAD files/*
+Copyright: 2025 Neobotics Foundation Inc.
+License: CERN-OHL-S-2.0
+
+Files: BOM files/*
+Copyright: 2025 Neobotics Foundation Inc.
+License: CERN-OHL-S-2.0
+
+Files: README.md
+Copyright: 2025 Neobotics Foundation Inc.
+License: CERN-OHL-S-2.0
+
+
