@@ -33,6 +33,7 @@ Specifications*
 - Footprint: 30x20x10 cm (LxWxH), without bumpers (they add 8.5 cm in length)
 - Wheelbase: 23 cm
 - Track width: 18 cm
+- Weight: approx. 2 kg (drive-ready including a 5 Ah 3S LiPo battery and basic electronics)
 - Supported wheel sizes: 70-90 mm diameter
 - Ground clearance: 1-2 cm (depending on the wheel size)
 - Swing axles with +-10° (rear) and +-8.5° (front) movement interval
@@ -65,5 +66,5 @@ Changelog
 ---
 - 2025-12-02: Initial upload
 - 2025-12-06: Wheel placeholders updated with KINGCOO 75mm wheels ([link](https://www.amazon.de/KINGCOO-Gummireifen-Kunststoff-Speichen-Schwarz/dp/B0CXT1QLLB/)), several design errors fixed
-- 2025-12-12: Metal components (screws, nuts, threaded inserts, bearings, cylinder pins) added, Basic electronics with mounting options added, several design errors fixed. First BOM added.
-- 2025-12-21: Sway bars added, several minor design improvements.
+- 2025-12-12: Metal components (screws, nuts, threaded inserts, bearings, cylinder pins) added, basic electronics with mounting options added, several design errors fixed. First BOM added.
+- 2025-12-21: Sway bars added, several minor design improvements. Manufacturing and operation remarks added.
