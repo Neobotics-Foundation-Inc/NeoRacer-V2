@@ -68,3 +68,19 @@ Changelog
 - 2025-12-06: Wheel placeholders updated with KINGCOO 75mm wheels ([link](https://www.amazon.de/KINGCOO-Gummireifen-Kunststoff-Speichen-Schwarz/dp/B0CXT1QLLB/)), several design errors fixed
 - 2025-12-12: Metal components (screws, nuts, threaded inserts, bearings, cylinder pins) added, basic electronics with mounting options added, several design errors fixed. First BOM added.
 - 2025-12-21: Sway bars added, several minor design improvements. Manufacturing and operation remarks added.
+
+Citation
+---
+If you use **NeoRacer V2** in published research, please cite this repository. GitHub renders a "Cite this repository" button from the [`CITATION.cff`](CITATION.cff) at the repo root that produces BibTeX/APA automatically.
+
+BibTeX:
+
+```bibtex
+@misc{neobotics_neoracer_v2_2025,
+  author       = {B{\"o}hm, Thomas},
+  title        = {{NeoRacer V2}: Open-Source 3D-Printable 1:10 Scale Autonomous Racing Chassis},
+  year         = {2025},
+  url          = {https://github.com/Neobotics-Foundation-Inc/NeoRacer-V2},
+  note         = {Neobotics Foundation Inc.}
+}
+```

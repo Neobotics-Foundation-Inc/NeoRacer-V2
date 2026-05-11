@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use NeoRacer V2 in your research, please cite it as below."
+title: "NeoRacer V2: Open-Source 3D-Printable 1:10 Scale Autonomous Racing Chassis"
+authors:
+  - family-names: Böhm
+    given-names: Thomas
+  - name: "Neobotics Foundation Inc."
+type: software
+url: "https://github.com/Neobotics-Foundation-Inc/NeoRacer-V2"
+repository-code: "https://github.com/Neobotics-Foundation-Inc/NeoRacer-V2"
+license: CERN-OHL-S-2.0
+keywords:
+  - autonomous-racing
+  - open-hardware
+  - 3d-printable
+  - chassis
+  - robotics-education
+  - neoracer
+date-released: 2025-12-02
